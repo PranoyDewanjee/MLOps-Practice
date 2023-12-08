@@ -10,7 +10,7 @@ psycopg2-binary = "*"
 hyperopt = "*"
 pandas = "*"
 numpy = "*"
-xgboost = "*"
+xgboost = "==2.0.1"
 seaborn = "*"
 
 [dev-packages]
