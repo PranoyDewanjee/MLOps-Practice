@@ -12,6 +12,7 @@ pandas = "*"
 numpy = "*"
 xgboost = "==2.0.1"
 seaborn = "*"
+google-cloud-storage = "*"
 
 [dev-packages]
 
